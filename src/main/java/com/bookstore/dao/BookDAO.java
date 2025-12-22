@@ -1,14 +1,14 @@
 package com.bookstore.dao;
 
+import com.bookstore.model.Book;
 import java.sql.*;
 import java.util.*;
-import com.bookstore.model.Book;
 
 public class BookDAO {
 
     private final String URL = "jdbc:mysql://localhost:3306/bookstore";
     private final String USER = "root";
-    private final String PASSWORD = "root";
+    private final String PASSWORD = "@Sahil123";
 
     static {
         try {

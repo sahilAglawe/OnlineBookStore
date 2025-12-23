@@ -41,3 +41,21 @@ It follows a layered architecture to ensure clean separation of concerns and bet
   - `edit.jsp` – Used for editing book details
 
 ---
+
+🔐 Concepts Covered
+
+MVC Architecture
+
+Servlet lifecycle
+
+JSP implicit objects
+
+JDBC CRUD operations
+
+Request Dispatching
+
+Form handling
+
+Exception handling
+
+Database connectivity

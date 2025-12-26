@@ -21,7 +21,7 @@ It follows a layered architecture to ensure clean separation of concerns and bet
 - MySQL Database
 - Apache Tomcat 10.1
 - Eclipse IDE
-- Dynamic Web Project (Non-Maven)
+- Dynamic Web  (Non-Maven)
 
 ---
 
@@ -59,3 +59,4 @@ Form handling
 Exception handling
 
 Database connectivity
+
